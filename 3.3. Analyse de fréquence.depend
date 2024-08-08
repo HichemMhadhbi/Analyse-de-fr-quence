@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1722860809 source:c:\users\hichem\desktop\exercices langage c\franceioi niv2\3.3. analyse de fréquence\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
